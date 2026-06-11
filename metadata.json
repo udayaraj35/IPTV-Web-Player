@@ -1,0 +1,6 @@
+{
+  "name": "IPTV Web Player",
+  "description": "A smooth cinematic IPTV streaming platform featuring YouTube-like advanced controls, stats for nerds, favorites, custom M3U playback, and live curated channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
